@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "version": "1.1.29",
+  "published_at": "2026-07-31T00:54:35Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.29/Instalador_OficinaMecanica_v1.1.29.exe",
+  "sha256": "6994744b58add1ba02cbac3b933f6a1cf14c59399d03291626723d90408d2811",
+  "size": 77418446,
+  "notes": "Atualizacao automatica pelo GitHub, melhorias no modulo fiscal e geracao completa do DANFSe."
+}
