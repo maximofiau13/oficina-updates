@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.29",
-  "published_at": "2026-07-31T00:54:35Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.29/Instalador_OficinaMecanica_v1.1.29.exe",
-  "sha256": "6994744b58add1ba02cbac3b933f6a1cf14c59399d03291626723d90408d2811",
-  "size": 77418446,
-  "notes": "Atualizacao automatica pelo GitHub, melhorias no modulo fiscal e geracao completa do DANFSe."
+  "version": "1.1.30",
+  "published_at": "2026-08-01T00:19:35Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.30/Instalador_OficinaMecanica_v1.1.30.exe",
+  "sha256": "c2bc85ec0cd6bd854714932402e664ecdeca1e861b767f6a83c8af660b4b204a",
+  "size": 77423331,
+  "notes": "Melhorias de visualizacao nas descricoes de produtos e servicos em O.S., NF-e e NFS-e."
 }
