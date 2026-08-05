@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.31",
-  "published_at": "2026-08-01T22:07:09Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.31/Instalador_OficinaMecanica_v1.1.31.exe",
-  "sha256": "ce1fe8f8050dcfb81c1736763a22d34ec8235ff2d5cfa8d9897e308df4bac8b5",
-  "size": 77450721,
-  "notes": "Limita nomes de clientes ao leiaute da NF-e, corrige rascunhos com destinatario acima de 60 caracteres e adiciona entradas fiscais com validacao antes de atualizar o estoque."
+  "version": "1.1.32",
+  "published_at": "2026-08-05T00:09:04Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.32/Instalador_OficinaMecanica_v1.1.32.exe",
+  "sha256": "51715cd9f4c94f3f524598692f5e9bd928c4e165c020863bc12abd35b7953f6a",
+  "size": 77467368,
+  "notes": "Melhora a leitura e busca na edicao de NF-e, permite boletos com prazos livres, detalha o fluxo mensal por forma de pagamento, integra baixas de contas ao financeiro e corrige o encerramento do servidor mobile."
 }
