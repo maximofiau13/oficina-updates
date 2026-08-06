@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.32",
-  "published_at": "2026-08-05T00:09:04Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.32/Instalador_OficinaMecanica_v1.1.32.exe",
-  "sha256": "51715cd9f4c94f3f524598692f5e9bd928c4e165c020863bc12abd35b7953f6a",
-  "size": 77467368,
-  "notes": "Melhora a leitura e busca na edicao de NF-e, permite boletos com prazos livres, detalha o fluxo mensal por forma de pagamento, integra baixas de contas ao financeiro e corrige o encerramento do servidor mobile."
+  "version": "1.1.33",
+  "published_at": "2026-08-06T00:10:49Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.33/Instalador_OficinaMecanica_v1.1.33.exe",
+  "sha256": "a881a17c663788a741127c13cd8e40fbc938b565e4472131cdee25d8f0175e36",
+  "size": 77488190,
+  "notes": "Corrige a verificacao automatica de atualizacoes e atalhos de instalacoes antigas, melhora financeiro e relatorios, amplia a edicao de NF-e e NFS-e e exibe o contato para ativacao e renovacao."
 }
