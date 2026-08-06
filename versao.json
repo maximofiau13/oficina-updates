@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.34",
-  "published_at": "2026-08-06T00:18:01Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.34/Instalador_OficinaMecanica_v1.1.34.exe",
-  "sha256": "fb95a4461f1b88d192c3b77c267b7061c738f0af52c64d6add98eb5ef92a53a7",
-  "size": 77482614,
-  "notes": "Corrige definitivamente a verificacao automatica pela API do GitHub e atalhos de instalacoes antigas, melhora financeiro e relatorios, amplia a edicao de NF-e e NFS-e e exibe o contato para ativacao e renovacao."
+  "version": "1.1.35",
+  "published_at": "2026-08-06T23:47:06Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.35/Instalador_OficinaMecanica_v1.1.35.exe",
+  "sha256": "ee927caee18d55e7a3f146cef87d018f9c4a74eadf2194f916fc97c20dca53be",
+  "size": 78144510,
+  "notes": "Adiciona logs tecnicos rotativos e diagnostico de inicializacao, registra falhas do servidor mobile e reforca a atualizacao automatica com endereco alternativo e verificacao manual."
 }
