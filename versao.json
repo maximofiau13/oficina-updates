@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.35",
-  "published_at": "2026-08-06T23:47:06Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.35/Instalador_OficinaMecanica_v1.1.35.exe",
-  "sha256": "ee927caee18d55e7a3f146cef87d018f9c4a74eadf2194f916fc97c20dca53be",
-  "size": 78144510,
-  "notes": "Adiciona logs tecnicos rotativos e diagnostico de inicializacao, registra falhas do servidor mobile e reforca a atualizacao automatica com endereco alternativo e verificacao manual."
+  "version": "1.1.36",
+  "published_at": "2026-08-07T22:43:42Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.36/Instalador_OficinaMecanica_v1.1.36.exe",
+  "sha256": "62c64446e2cd65d7477c686c6536b00baadf24d52374f0c8284284124cbe4b2f",
+  "size": 78151087,
+  "notes": "Corrige o salvamento de fotos no cadastro de pecas, protege e oculta a configuracao da NFS-e com senha fiscal e adiciona acesso direto as pastas de XML no modulo fiscal."
 }
