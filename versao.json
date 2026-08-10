@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.36",
-  "published_at": "2026-08-07T22:43:42Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.36/Instalador_OficinaMecanica_v1.1.36.exe",
-  "sha256": "62c64446e2cd65d7477c686c6536b00baadf24d52374f0c8284284124cbe4b2f",
-  "size": 78151087,
-  "notes": "Corrige o salvamento de fotos no cadastro de pecas, protege e oculta a configuracao da NFS-e com senha fiscal e adiciona acesso direto as pastas de XML no modulo fiscal."
+  "version": "1.1.37",
+  "published_at": "2026-08-10T23:58:47Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.37/Instalador_OficinaMecanica_v1.1.37.exe",
+  "sha256": "a166cb66459bbb75d4729f0924f1aca4238567efbc910f6e2a4843d9d36daed0",
+  "size": 78226390,
+  "notes": "Corrige a sincronizacao do KM informado no checklist mobile com a ordem de servico e o cadastro do veiculo. Impede que uma OS aberta sobrescreva o KM novo e reforca a limpeza de dados locais no instalador."
 }
