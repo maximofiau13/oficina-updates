@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.38",
-  "published_at": "2026-08-13T01:00:45Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.38/Instalador_OficinaMecanica_v1.1.38.exe",
-  "sha256": "b5a00665105617f5276712848a3045125991443dc86f4512d9e089613e4c2009",
-  "size": 78155389,
-  "notes": "Corrige a emissao de NFS-e em producao com validacao automatica do codigo municipal do servico, usa o desdobramento 000 quando aplicavel e melhora a confirmacao antes de emitir."
+  "version": "1.1.39",
+  "published_at": "2026-08-16T14:31:54Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.39/Instalador_OficinaMecanica_v1.1.39.exe",
+  "sha256": "48ea2fe532610b9e0dc4a7342ae0fb268f059fb2e9ca303a874a2d5eb99bd895",
+  "size": 78160091,
+  "notes": "Corrige o pagamento de comissoes com escolha da forma de pagamento, evita saida falsa no caixa para PIX, salva copia PDF do recibo antes da impressao e permite recuperar, reimprimir e corrigir acertos anteriores."
 }
