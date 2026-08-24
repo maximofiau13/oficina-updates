@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.39",
-  "published_at": "2026-08-16T14:31:54Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.39/Instalador_OficinaMecanica_v1.1.39.exe",
-  "sha256": "48ea2fe532610b9e0dc4a7342ae0fb268f059fb2e9ca303a874a2d5eb99bd895",
-  "size": 78160091,
-  "notes": "Corrige o pagamento de comissoes com escolha da forma de pagamento, evita saida falsa no caixa para PIX, salva copia PDF do recibo antes da impressao e permite recuperar, reimprimir e corrigir acertos anteriores."
+  "version": "1.1.40",
+  "published_at": "2026-08-24T16:33:01Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.40/Instalador_OficinaMecanica_v1.1.40.exe",
+  "sha256": "f5b3c9579f6653f76fd1b538cb19792d55a2855d926388cf98bba0d976863b26",
+  "size": 78171676,
+  "notes": "Corrige a abertura de O.S. pelo celular, busca de placa local/API, vínculo com O.S. aberta e sincronização do KM."
 }
