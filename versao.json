@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.43",
-  "published_at": "2026-08-26T22:20:04Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.43/Instalador_OficinaMecanica_v1.1.43.exe",
-  "sha256": "550046fccb191aa0a13a5c8507041f3db6f7f8a6153ca9f93895be3151239b87",
-  "size": 78184511,
-  "notes": "Configura por empresa o envio da Inscrição Municipal na DPS e trata automaticamente as rejeições E0120 e E0116 da NFS-e Nacional."
+  "version": "1.1.44",
+  "published_at": "2026-08-26T22:53:53Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.44/Instalador_OficinaMecanica_v1.1.44.exe",
+  "sha256": "e0d93893c0743a828f950780b2aec6d10a9621db7d25f05a007149b1c24756d6",
+  "size": 78180573,
+  "notes": "Corrige a visualizacao e impressao do DANFSe quando o ADN Nacional apresenta falha SSL, usando o XML autorizado como contingencia."
 }
