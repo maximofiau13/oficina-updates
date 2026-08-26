@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.40",
-  "published_at": "2026-08-24T16:33:01Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.40/Instalador_OficinaMecanica_v1.1.40.exe",
-  "sha256": "f5b3c9579f6653f76fd1b538cb19792d55a2855d926388cf98bba0d976863b26",
-  "size": 78171676,
-  "notes": "Corrige a abertura de O.S. pelo celular, busca de placa local/API, vínculo com O.S. aberta e sincronização do KM."
+  "version": "1.1.41",
+  "published_at": "2026-08-26T21:42:41Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.41/Instalador_OficinaMecanica_v1.1.41.exe",
+  "sha256": "eb08b2ddbfce5d73c4fc4eb2377a8af17ef00f89c76b23ca8cd0a88b0ea3ad04",
+  "size": 78180002,
+  "notes": "Corrige endereço e UF da NF-e originada da O.S. e remove o código municipal 000 inválido da NFS-e de produção."
 }
