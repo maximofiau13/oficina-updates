@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.44",
-  "published_at": "2026-08-26T22:53:53Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.44/Instalador_OficinaMecanica_v1.1.44.exe",
-  "sha256": "e0d93893c0743a828f950780b2aec6d10a9621db7d25f05a007149b1c24756d6",
-  "size": 78180573,
-  "notes": "Corrige a visualizacao e impressao do DANFSe quando o ADN Nacional apresenta falha SSL, usando o XML autorizado como contingencia."
+  "version": "1.1.45",
+  "published_at": "2026-09-16T21:19:45Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.45/Instalador_OficinaMecanica_v1.1.45.exe",
+  "sha256": "5915d2ee25d30cab1e640060488fe731c5159fb63c30f51b6554bded78d40443",
+  "size": 78183542,
+  "notes": "Restaura a busca automatica de veiculos no checklist mobile: procura primeiro no sistema, consulta a API quando necessario e solicita apenas o nome do cliente quando os dados do veiculo forem encontrados."
 }
