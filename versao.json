@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.46",
-  "published_at": "2026-09-17T18:05:37Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.46/Instalador_OficinaMecanica_v1.1.46.exe",
-  "sha256": "6daf6c29c92f528485d3a9203b39a69ae47a9e86f93c1014e2a19371ebda05ff",
-  "size": 78185436,
-  "notes": "Corrige a consulta de placas no checklist mobile, migra automaticamente a configuracao antiga da API e diferencia falha tecnica de placa realmente nao encontrada."
+  "version": "1.1.47",
+  "published_at": "2026-09-24T22:42:07Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.47/Instalador_OficinaMecanica_v1.1.47.exe",
+  "sha256": "f274a2a683c103ecc8a12034cf41911f7349f6bff0985f27e5df13bb0d71be78",
+  "size": 78183016,
+  "notes": "Corrige a consulta de placas no checklist mobile usando a mesma configuracao do desktop, abre novas OS sem cliente ou veiculo preselecionado e atualiza o contato de ativacao para (31) 98987-7834."
 }
