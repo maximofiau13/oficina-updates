@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.48",
-  "published_at": "2026-09-25T19:03:54Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.48/Instalador_OficinaMecanica_v1.1.48.exe",
-  "sha256": "392d122578a260ff9457622de1bdf28c3d267441fa747f72619b9bf84ec3c55b",
-  "size": 79697115,
-  "notes": "Corrige checklist anterior aparecendo em outras OS, limita as fotos a ordem de servico atual e impede que um checklist existente seja transferido para outra OS."
+  "version": "1.1.49",
+  "published_at": "2026-09-26T14:05:02Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.49/Instalador_OficinaMecanica_v1.1.49.exe",
+  "sha256": "c9e79612b23c1fd444fe9abb2200088da8ea3d25b7191570333c03e717a3be82",
+  "size": 79688825,
+  "notes": "Corrige falha que interrompia o fechamento da OS apos confirmar o pagamento e mantem a limpeza correta da aba de checklist em novas ordens."
 }
