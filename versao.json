@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.50",
-  "published_at": "2026-10-05T15:58:13Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.50/Instalador_OficinaMecanica_v1.1.50.exe",
-  "sha256": "5f8f2d32e28bd8ee8b69446d14ded697ba7b967926b7abee96cd64c9e92d5255",
-  "size": 80392341,
-  "notes": "Corrige a API de placas no checklist mobile, abertura e salvamento de O.S., melhora o diagnostico da NFS-e e padroniza Pecas como Produtos na interface."
+  "version": "1.1.51",
+  "published_at": "2026-10-05T16:13:25Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.51/Instalador_OficinaMecanica_v1.1.51.exe",
+  "sha256": "ee4dd53aa86a4a166d8e97ab44d2903d77592f11380c63fcefc2d1ceddd5880b",
+  "size": 80396288,
+  "notes": "Padroniza o botao de Vendas para Adicionar Produto."
 }
