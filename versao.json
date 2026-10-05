@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.49",
-  "published_at": "2026-09-26T14:05:02Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.49/Instalador_OficinaMecanica_v1.1.49.exe",
-  "sha256": "c9e79612b23c1fd444fe9abb2200088da8ea3d25b7191570333c03e717a3be82",
-  "size": 79688825,
-  "notes": "Corrige falha que interrompia o fechamento da OS apos confirmar o pagamento e mantem a limpeza correta da aba de checklist em novas ordens."
+  "version": "1.1.50",
+  "published_at": "2026-10-05T15:58:13Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.50/Instalador_OficinaMecanica_v1.1.50.exe",
+  "sha256": "5f8f2d32e28bd8ee8b69446d14ded697ba7b967926b7abee96cd64c9e92d5255",
+  "size": 80392341,
+  "notes": "Corrige a API de placas no checklist mobile, abertura e salvamento de O.S., melhora o diagnostico da NFS-e e padroniza Pecas como Produtos na interface."
 }
