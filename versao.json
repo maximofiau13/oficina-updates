@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.51",
-  "published_at": "2026-10-05T16:13:25Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.51/Instalador_OficinaMecanica_v1.1.51.exe",
-  "sha256": "ee4dd53aa86a4a166d8e97ab44d2903d77592f11380c63fcefc2d1ceddd5880b",
-  "size": 80396288,
-  "notes": "Padroniza o botao de Vendas para Adicionar Produto."
+  "version": "1.1.52",
+  "published_at": "2026-10-28T23:02:41Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.52/Instalador_OficinaMecanica_v1.1.52.exe",
+  "sha256": "96e3b1989264a5c5eb0b4d4282e9f6eab7e227680425221ec5d41e9c7d26462e",
+  "size": 80397463,
+  "notes": "Estoque: referencia visivel e codigo de barras identificado; OS do checklist: correcao da troca de cliente; historico do veiculo: consulta da OS; vales: remocao da acao duplicada; ajustes no dashboard e validacao de nomes de produtos para NF-e."
 }
