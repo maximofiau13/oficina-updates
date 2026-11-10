@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.52",
-  "published_at": "2026-10-28T23:02:41Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.52/Instalador_OficinaMecanica_v1.1.52.exe",
-  "sha256": "96e3b1989264a5c5eb0b4d4282e9f6eab7e227680425221ec5d41e9c7d26462e",
-  "size": 80397463,
-  "notes": "Estoque: referencia visivel e codigo de barras identificado; OS do checklist: correcao da troca de cliente; historico do veiculo: consulta da OS; vales: remocao da acao duplicada; ajustes no dashboard e validacao de nomes de produtos para NF-e."
+  "version": "1.1.53",
+  "published_at": "2026-11-10T23:39:50Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.53/Instalador_OficinaMecanica_v1.1.53.exe",
+  "sha256": "f00f938a43279beb33823cb25bfd521b6bd459a8fed9845838ca2f1bd4e48bb5",
+  "size": 80398932,
+  "notes": "Estoque de produtos: botao Excluir na lista principal, ativo apenas para um produto selecionado, com senha, confirmacao e protecao de vinculos."
 }
