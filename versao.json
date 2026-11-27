@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "1.1.54",
-  "published_at": "2026-11-25T21:25:04Z",
-  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.54/Instalador_OficinaMecanica_v1.1.54.exe",
-  "sha256": "3990d5ac17307dac93c71948e3f280fb29f917a55146914441ec5025e28b51af",
-  "size": 80400203,
-  "notes": "Estoque: exclusao de produto agora libera vinculos tecnicos de entrada fiscal ainda nao lancada. Quando houver historico real, informa exatamente a origem do vinculo e preserva os registros."
+  "version": "1.1.55",
+  "published_at": "2026-11-28T02:30:50Z",
+  "installer_url": "https://github.com/maximofiau13/oficina-updates/releases/download/v1.1.55/Instalador_OficinaMecanica_v1.1.55.exe",
+  "sha256": "ba64b5f5a393aa073faaaab621affd9f8ca418d5d69e3ccca761da8afaf27e87",
+  "size": 80538416,
+  "notes": "Configuracoes avancadas com modos local, servidor e terminal para rede local. Correcoes gerais em estoque, OS, orcamentos, financeiro, checklist e atualizador. Modo rede requer validacao na rede da oficina antes do uso em producao."
 }
